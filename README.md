@@ -6,3 +6,5 @@ Project giải quyết bài toán kiểm tra điều kiện thi cuối kỳ củ
 ## Cài đặt
 * Chương trình dùng Java JDK1.8
 * Sử dụng Maven
+* Testcase tại src/main/resources
+* Chạy hàm test của src/test/java/Test.java để chạy testcase
